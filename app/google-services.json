@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "933488880082",
+    "project_id": "login-pages-56ac1",
+    "storage_bucket": "login-pages-56ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933488880082:android:947c16e43a32305103000b",
+        "android_client_info": {
+          "package_name": "com.example.vitevite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933488880082-cb063sap0jvd0qv37c32pu4mvej3t9li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUs_uS1BsEJPlxnZoBOe-1xxP9LxQ0SGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933488880082-cb063sap0jvd0qv37c32pu4mvej3t9li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
